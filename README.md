@@ -2,7 +2,7 @@
 
 Ссылка на colab: https://colab.research.google.com/drive/1jqkiI0GwQ60wKy6urOtTWYrZhUWCTCE4?usp=sharing
 
-Что выдал FastQC:
+Что выдал FastQC (полные отчеты есть в файлах):
 
 ENCFF698KIR
 
